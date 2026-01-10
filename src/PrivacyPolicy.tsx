@@ -17,7 +17,7 @@ const PrivacyPolicy: React.FC = () => {
       <p>This app does not integrate with any third-party analytics or advertising services.</p>
       
       <h2>Contact</h2>
-      <p>For questions about this privacy policy for AI Script Generator, please contact ReedOne through our GitHub repository or Google Play Store listing.</p>
+      <p>For questions about this privacy policy for AI Script Generator, please contact ReedOne at: erptechnik@gmail.com</p>
       
       <h2>Changes to This Policy</h2>
       <p>ReedOne may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.</p>
