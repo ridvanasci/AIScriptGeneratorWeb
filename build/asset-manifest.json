@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AIScriptGeneratorWeb/static/css/main.cb474c11.css",
-    "main.js": "/AIScriptGeneratorWeb/static/js/main.700f406b.js",
+    "main.js": "/AIScriptGeneratorWeb/static/js/main.f4eb2e3c.js",
     "static/js/453.41d7a3f0.chunk.js": "/AIScriptGeneratorWeb/static/js/453.41d7a3f0.chunk.js",
     "index.html": "/AIScriptGeneratorWeb/index.html",
     "main.cb474c11.css.map": "/AIScriptGeneratorWeb/static/css/main.cb474c11.css.map",
-    "main.700f406b.js.map": "/AIScriptGeneratorWeb/static/js/main.700f406b.js.map",
+    "main.f4eb2e3c.js.map": "/AIScriptGeneratorWeb/static/js/main.f4eb2e3c.js.map",
     "453.41d7a3f0.chunk.js.map": "/AIScriptGeneratorWeb/static/js/453.41d7a3f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb474c11.css",
-    "static/js/main.700f406b.js"
+    "static/js/main.f4eb2e3c.js"
   ]
 }
