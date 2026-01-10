@@ -72,7 +72,7 @@ function App() {
 
       <footer>
         <div className="container">
-          <p>&copy; 2024 AI Script Generator. Built with Flutter & AI.</p>
+          <p>&copy; 2026 AI Script Generator. Built with Flutter & AI.</p>
           <button onClick={() => setShowPrivacy(true)} style={{ background: 'none', border: 'none', color: '#007bff', textDecoration: 'underline', cursor: 'pointer' }}>Privacy Policy</button>
         </div>
       </footer>
