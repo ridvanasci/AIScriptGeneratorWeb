@@ -48,6 +48,8 @@ body {
   border-radius: 8px;
   font-weight: 600;
   transition: transform 0.2s;
+  cursor: pointer;
+  display: inline-block;
 }
 
 .btn-primary {
