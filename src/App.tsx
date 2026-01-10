@@ -21,7 +21,7 @@ function App() {
           <h1>AI Script Generator</h1>
           <p>Create engaging video scripts with AI-powered content generation</p>
           <div className="download-buttons">
-            <a href="https://play.google.com/store/apps/details?id=com.aiscriptgenerator.app" className="btn-primary">Download for Android</a>
+            <a href="https://play.google.com/store/apps/details?id=com.aiscriptgenerator.app" target="_blank" rel="noopener noreferrer" className="btn-primary">Download for Android</a>
             <a href="#" className="btn-secondary">View on GitHub</a>
           </div>
         </div>
